@@ -16,7 +16,7 @@ git clone https://github.com/yourusername/Java-Cafe-Ordering-System.git
 ```
 
 ### 2. Open the Project | プロジェクトのオープン
-Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, etc.):<br>
+Open the project in your preferred IDE.(IntelliJ IDEA, Eclipse, etc.)<br>
 お気に入りの IDE（IntelliJ IDEA、Eclipse など）でプロジェクトを開きます。
 
 ### 3. Run the Application | アプリケーションの実行
