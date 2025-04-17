@@ -8,7 +8,7 @@ This project is a Java-based desktop application that simulates a café ordering
 ## 🚀 Getting Started | 開始方法
 
 ### 1. Clone the Repository | リポジトリのクローン  
-Clone this repository to your local machine using the following command:  
+Clone this repository to your local machine using the following command:<br>
 以下のコマンドを使って、リポジトリをローカルにクローンしてください。
 
 ```bash
@@ -16,11 +16,11 @@ git clone https://github.com/yourusername/Java-Cafe-Ordering-System.git
 ```
 
 ### 2. Open the Project | プロジェクトのオープン
-Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, etc.):
+Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, etc.):<br>
 お気に入りの IDE（IntelliJ IDEA、Eclipse など）でプロジェクトを開きます。
 
 ### 3. Run the Application | アプリケーションの実行
-Locate and run the NaviBarMain.java class to launch the application.
+Locate and run the NaviBarMain.java class to launch the application.<br>
 NaviBarMain.java クラスを実行してアプリケーションを起動します。
 
 ```bash
